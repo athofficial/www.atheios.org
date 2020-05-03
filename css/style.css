@@ -50,6 +50,13 @@ img.svg{
 	width: 15px;
 	height: 15px;
 }
+
+.medium_title {
+	color: white;
+	word-wrap: break-word;
+	font-size: 19px;
+}
+
 .edina_tm_wrapper_all,
 .edina_tm_section,
 .edina_tm_content{
